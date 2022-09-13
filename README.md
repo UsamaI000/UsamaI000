@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Intelligent Conversational AI agent.Intelligent Conversational AI agent.Intelligent Conversational AI agent.**
 
-- 👨‍💻 All of my projects are available at UsamaI000?tab=repositories
+- 👨‍💻 All of my projects are available at https://github.com/UsamaI000?tab=repositories
 
 - 💬 Ask me about **Machine Learning, Deep Learning, and NLP**
 
