@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamai000" alt="usamai000" /></a> </p>
 
-- 🔭 I’m currently working on **Intelligent Conversational AI agent.Intelligent Conversational AI agent.Intelligent Conversational AI agent.**
+- 🔭 I’m currently working on **Intelligent Conversational AI agent.Intelligent Conversational AI agent.**
 
 - 👨‍💻 All of my projects are available at https://github.com/UsamaI000?tab=repositories
 
-- 💬 Ask me about **Machine Learning, Deep Learning, and NLP**
+- 💬 Ask me about **Machine Learning, Deep Learning, and Data Science**
 
 - 📫 How to reach me **imusamairfan147@gmail.com**
 
