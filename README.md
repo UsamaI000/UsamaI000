@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usama Irfan</h1>
-<h3 align="center">A Machine Learning Engineer experienced in solving business problems using Machine Learning and Deep Learning, systematically and creatively using my skills to add tangible value to the business and the end-user. Expertise with Python, Numpy, PyTorch, Tensorflow, Pandas, Matplotlib, Scipy, Plotly, and seaborn.</h3>
+<h3 align="center">I am a Data Scientist, passionate about solving business problems using Data Science & Machine Learning by systematically & creatively utilizing my skills to add tangible value to the team, the business, and the end user. As a person who thrives in high-pressure and fast-paced situations, I strive for positive results through the application of my abilities in Machine Learning and Deep Learning in solving real-world problems. 
+
+I have around 2 years of experience both in the industry and in research using Python and Machine Learning libraries like PyTorch, Sklearn, Pandas, TensorFlow, Spacy, NLTK, Numpy, Transformers, BERT, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamai000&label=Profile%20views&color=0e75b6&style=flat" alt="usamai000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamai000" alt="usamai000" /></a> </p>
 
-- 🔭 I’m currently working as **Data Scientist at Data Pilot.**
+- 🔭 I’m currently working as a **Data Scientist at Data Pilot.**
 
 - 👨‍💻 All of my projects are available at https://github.com/UsamaI000?tab=repositories
 
 - 💬 Ask me about **Machine Learning, Deep Learning, and Data Science**
 
-- 📫 How to reach me **imusamairfan147@gmail.com**
+- 📫 You can reach me at **imusamairfan147@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
