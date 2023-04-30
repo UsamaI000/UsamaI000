@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usama Irfan</h1>
-<h3 align="center">I am a Data Scientist, passionate about solving business problems using Data Science & Machine Learning by systematically & creatively utilizing my skills to add tangible value to the team, the business, and the end user. As a person who thrives in high-pressure and fast-paced situations, I strive for positive results through the application of my abilities in Machine Learning and Deep Learning in solving real-world problems. 
+<h3 align="right">I am a Data Scientist, passionate about solving business problems using Data Science & Machine Learning by systematically & creatively utilizing my skills to add tangible value to the team, the business, and the end user. As a person who thrives in high-pressure and fast-paced situations, I strive for positive results through the application of my abilities in Machine Learning and Deep Learning in solving real-world problems. 
 
 I have around 2 years of experience both in the industry and in research using Python and Machine Learning libraries like PyTorch, Sklearn, Pandas, TensorFlow, Spacy, NLTK, Numpy, Transformers, BERT, etc.</h3>
 
