@@ -7,7 +7,7 @@ I have around 2 years of experience both in the industry and in research using P
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamai000" alt="usamai000" /></a> </p>
 
-- 🔭 I’m currently working as a **Data Scientist at Data Pilot.**
+- 🔭 I’m currently working as a **Lead Data Scientist at Data Pilot.**
 
 - 👨‍💻 All of my projects are available at https://github.com/UsamaI000?tab=repositories
 
