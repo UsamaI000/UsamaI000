@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamai000" alt="usamai000" /></a> </p>
 
-- 🔭 I’m currently working as a **Lead Data Scientist at Data Pilot.**
+- 🔭 I’m currently working as a **Lead Data Scientist at Venture Data.**
 
 - 👨‍💻 All of my projects are available at https://github.com/UsamaI000?tab=repositories
 
