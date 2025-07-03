@@ -1,58 +1,76 @@
-<h1 align="left">Hi 👋, I'm Muhammad Usama Irfan</h1> <h3 align="left">Data & AI Engineer with over 5 years of experience designing and deploying production-ready solutions that drive business transformation. I specialize in building scalable data infrastructure, AI-powered systems, and analytics platforms, leveraging technologies like Python, SQL, Cloud (AWS, Azure, GCP), and LLMs. My work includes developing AI models, building data pipelines, and creating tools that enhance operational efficiency and business decision-making.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamai000&label=Profile%20views&color=0e75b6&style=flat" alt="usamai000" /> </p>
-🔭 Current Role: Lead Data Scientist at Venture Data (Dubai, UAE, Remote)
+# Hi 👋, I'm Muhammad Usama Irfan
 
-💬 Specialties: Machine Learning, AI Solutions, Data Infrastructure, NLP, Cloud Platforms
+### An experienced Data & AI Engineer with over 5 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms. \n Proficient in Python, Langchain, Crewai, LLMs, FastAPI, and Cloud Platforms, I am dedicated to delivering high-impact solutions that enhance operational efficiency and support data-driven decision-making. \n If you’re looking for a results-oriented, innovative engineer who can lead AI initiatives and unlock the full potential of your data, let's connect!.
 
-📫 Contact: imusamairfan147@gmail.com
+![Profile Views](https://komarev.com/ghpvc/?username=usamai000&label=Profile%20views&color=0e75b6&style=flat)
 
-🔗 LinkedIn: Muhammad Usama Irfan
+- 🔭 **Current Role:** Lead Data Scientist at Venture Data (Dubai, UAE, Remote)  
+- 💬 **Specialties:** Machine Learning, AI Solutions, Data Infrastructure, NLP, Cloud Platforms  
+- 📫 **Contact:** [imusamairfan147@gmail.com](mailto:imusamairfan147@gmail.com)  
+- 🔗 **LinkedIn:** [Muhammad Usama Irfan](https://www.linkedin.com/in/m-usama-irfan/)  
+- 👨‍💻 **GitHub Projects:** [Check out my work here](https://github.com/UsamaI000?tab=repositories)
 
-👨‍💻 GitHub Projects: Check out my work here
+---
 
-Notable Projects & Achievements
-AI-Assisted Data Analytics Platform | Venture Data (2023 - Present)
-Building an AI-powered platform to query data and generate insights.
+### 🛠️ **Notable Projects & Achievements**
 
-Designed multi-agent solutions to explore data and execute SQL queries autonomously.
+#### **Business Pulse - An Agentic AI Analytics Platform** | Venture Data (2023 - Present)
+- Building an AI-powered platform to query data and generate insights.  
+- Designed multi-agent solutions to explore data and execute SQL queries autonomously.  
+- Spearheading the creation of a semantic data layer to enhance business intelligence.
 
-Spearheading the creation of a semantic data layer to enhance business intelligence.
+#### **Automated Call Analytics Solution** | Venture Data
+- Led a team to develop an Azure-based system using Databricks, OpenAI, and Assembly AI, reducing call categorization time by 70%.  
 
-Automated Call Analytics Solution | Venture Data
-Led a team to develop an Azure-based system using Databricks, OpenAI, and Assembly AI, reducing call categorization time by 70%.
+#### **Intelligent Teaching Assistant Chatbot** | Venture Data
+- Developed a chatbot using RAG and prompt engineering to help students with their queries, improving resolution time by 10%.
 
-Intelligent Teaching Assistant Chatbot | Venture Data
-Developed a chatbot using RAG and prompt engineering to help students with their queries, improving resolution time by 10%.
+#### **Enterprise Data Warehouse & Analytics Solution** | Data Pilot
+- Implemented serverless ETL workflows using AWS Lambda and Glue, and optimized data storage and transformation, reducing reporting latency by 70%.  
 
-Enterprise Data Warehouse & Analytics Solution | Data Pilot
-Implemented serverless ETL workflows using AWS Lambda and Glue, and optimized data storage and transformation, reducing reporting latency by 70%.
+#### **Conversational AI Assistant** | Algo
+- Built a conversational AI agent and improved NER & Intent Classification accuracy to 90%, enhancing client query response times for companies like Microsoft and BestBuy.
 
-NLP Model for Conversational AI | Algo
-Built a conversational AI agent and improved NER & Intent Classification accuracy to 90%, enhancing client query response times for companies like Microsoft and BestBuy.
+---
 
-Technical Skills
-Programming & Frameworks: Python, SQL, FastAPI, Django, Langchain
+### 💻 **Technical Skills**
 
-AI & ML: LLMs (GPT, BERT, LLaMA), NLP, Predictive Modeling, RNN, LSTM, Clustering
+- **Programming & Frameworks:**  
+  - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
+  - ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) SQL  
+  - ![FastAPI](https://fastapi.tiangolo.com/img/logo.svg) FastAPI  
+  - Django, Langchain
 
-Data Engineering: Serverless ETL, DBT, BigQuery, Snowflake
+- **AI & ML:**  
+  - LLMs (GPT, BERT, LLaMA), NLP, Predictive Modeling, RNN, LSTM, Clustering  
+  - ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) PyTorch  
+  - ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) TensorFlow
 
-Cloud: Azure (ML, Cognitive Services, OpenAI), GCP (BigQuery, VertexAI), AWS (Lambda, SageMaker)
+- **Data Engineering:**  
+  - Serverless ETL, DBT, BigQuery, Snowflake  
+  - Cloud Platforms:  
+    - ![Azure](https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Azure_Logo.svg) Azure  
+    - ![GCP](https://upload.wikimedia.org/wikipedia/commons/2/29/Google_Cloud_logo.svg) GCP  
+    - ![AWS](https://upload.wikimedia.org/wikipedia/commons/6/6a/Amazon_Web_Services_Logo.svg) AWS
 
-Data Visualization: Power BI, Plotly, Matplotlib
+- **Data Visualization:**  
+  - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/e/e4/Power_BI_Logo.svg) Power BI  
+  - ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/4/4b/Matplotlib_logo.png) Matplotlib  
+  - Plotly
 
-Other Tools: Docker, CI/CD, Git, DevOps, Agile
+- **Other Tools:**  
+  - Docker, CI/CD, Git, DevOps, Agile
 
-Education
-MSc in Computer Science | Universität des Saarlandes, Saarbrucken, Germany
+---
 
-BSc in Computer and Information Science | PIEAS, Islamabad, Pakistan
+### 📞 **Contact & Connect**
 
-Languages & Certifications
-English: Business Proficient
+- 📧 **Email:** [imusamairfan147@gmail.com](mailto:imusamairfan147@gmail.com)  
+- 🔗 **LinkedIn:** [Muhammad Usama Irfan](https://www.linkedin.com/in/m-usama-irfan/)  
+- 👨‍💻 **GitHub:** [Check out my work here](https://github.com/UsamaI000?tab=repositories)
 
-German: Learning
-
-Certifications: (List any relevant certifications you may have)
-
-Connect with me
-<p align="left"> <a href="https://linkedin.com/in/m-usama-irfan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-usama-irfan" height="30" width="40" /> </a> </p>
+<p align="left">
+  <a href="https://linkedin.com/in/m-usama-irfan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-usama-irfan" height="30" width="40" />
+  </a>
+</p>
