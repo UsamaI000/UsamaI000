@@ -1,6 +1,10 @@
 # Hi 👋, I'm Muhammad Usama Irfan
 
-### An experienced Data & AI Engineer with over 5 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms. \n Proficient in Python, Langchain, Crewai, LLMs, FastAPI, and Cloud Platforms, I am dedicated to delivering high-impact solutions that enhance operational efficiency and support data-driven decision-making. \n If you’re looking for a results-oriented, innovative engineer who can lead AI initiatives and unlock the full potential of your data, let's connect!.
+#### An experienced Data & AI Engineer with over 5 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms. 
+
+#### Proficient in Python, Langchain, Crewai, LLMs, FastAPI, and Cloud Platforms, I am dedicated to delivering high-impact solutions that enhance operational efficiency and support data-driven decision-making. 
+
+#### If you’re looking for a results-oriented, innovative engineer who can lead AI initiatives and unlock the full potential of your data, feel free to reach out.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=usamai000&label=Profile%20views&color=0e75b6&style=flat)
 
