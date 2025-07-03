@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Muhammad Usama Irfan</h1>
-<h3 align="left">I am a Data Scientist, passionate about solving business problems using Data Science & Machine Learning by systematically & creatively utilizing my skills to add tangible value to the team, the business, and the end user. As a person who thrives in high-pressure and fast-paced situations, I strive for positive results through the application of my abilities in Machine Learning and Deep Learning in solving real-world problems.</h3>
+<h3 align="left">As an experienced Data & AI Engineer with over 5 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms.
+
+Proficient in Python, Langchain, Crewai, LLMs, FastAPI, and Cloud Platforms, I am dedicated to delivering high-impact solutions that enhance operational efficiency and support data-driven decision-making.
+
+If you’re looking for a results-oriented, innovative engineer who can lead AI initiatives and unlock the full potential of your data, let's connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamai000&label=Profile%20views&color=0e75b6&style=flat" alt="usamai000" /> </p>
 
