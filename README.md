@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=usamai000&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 **Current Role:** Lead Data Scientist at Venture Data (Dubai, UAE, Remote)  
+- 🔭 **Current Role:** Data and AI Engineer at Venture Data (Dubai, UAE, Remote)  
 - 💬 **Specialties:** Machine Learning, AI Solutions, Data Infrastructure, NLP, Cloud Platforms  
 - 📫 **Contact:** [imusamairfan147@gmail.com](mailto:imusamairfan147@gmail.com)  
 - 🔗 **LinkedIn:** [Muhammad Usama Irfan](https://www.linkedin.com/in/m-usama-irfan/)  
@@ -76,3 +76,5 @@
 - 🔗 **LinkedIn:** [Muhammad Usama Irfan](https://www.linkedin.com/in/m-usama-irfan/)  
 - 👨‍💻 **GitHub:** [Check out my work here](https://github.com/UsamaI000?tab=repositories)
 - 📞 **Phone:** +49-162-1816032 / +92-332-5664333
+
+### If you are looking for consultation and collaboration, feel free to reach out
