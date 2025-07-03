@@ -40,26 +40,29 @@
 ### 💻 **Technical Skills**
 
 - **Programming & Frameworks:**  
-  - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
-  - ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) SQL  
-  - ![FastAPI](https://fastapi.tiangolo.com/img/logo.svg) FastAPI  
-  - Django, Langchain
+  - Python  
+  - SQL  
+  - FastAPI  
 
 - **AI & ML:**  
   - LLMs (GPT, BERT, LLaMA), NLP, Predictive Modeling, RNN, LSTM, Clustering  
-  - ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) PyTorch  
-  - ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) TensorFlow
+  - PyTorch  
+  - TensorFlow
+  - CrewAI
+  - Langchain
 
 - **Data Engineering:**  
   - Serverless ETL, DBT, BigQuery, Snowflake  
-  - Cloud Platforms:  
-    - ![Azure](https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Azure_Logo.svg) Azure  
-    - ![GCP](https://upload.wikimedia.org/wikipedia/commons/2/29/Google_Cloud_logo.svg) GCP  
-    - ![AWS](https://upload.wikimedia.org/wikipedia/commons/6/6a/Amazon_Web_Services_Logo.svg) AWS
+
+- **Cloud Platforms**:  
+    - Azure (ML, Funtions, OpenAI, LUIS, Bot Framework, Blob Storage, Speech SDK, Conversational AI) 
+    - GCP (Big Query, Cloud Functions, Cloud Run, Vertex AI, Storage)
+    - AWS (S3, Redshift, Lambda, Glue, EC2)
 
 - **Data Visualization:**  
-  - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/e/e4/Power_BI_Logo.svg) Power BI  
-  - ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/4/4b/Matplotlib_logo.png) Matplotlib  
+  - Power BI  
+  - Matplotlib
+  - Seaborn  
   - Plotly
 
 - **Other Tools:**  
@@ -72,6 +75,7 @@
 - 📧 **Email:** [imusamairfan147@gmail.com](mailto:imusamairfan147@gmail.com)  
 - 🔗 **LinkedIn:** [Muhammad Usama Irfan](https://www.linkedin.com/in/m-usama-irfan/)  
 - 👨‍💻 **GitHub:** [Check out my work here](https://github.com/UsamaI000?tab=repositories)
+- 📞 **Phone:** +49-162-1816032 / +92-332-5664333
 
 <p align="left">
   <a href="https://linkedin.com/in/m-usama-irfan" target="blank">
