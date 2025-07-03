@@ -1,35 +1,58 @@
-<h1 align="left">Hi 👋, I'm Muhammad Usama Irfan</h1>
-<h3 align="left">As an experienced Data & AI Engineer with over 5 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms.
+<h1 align="left">Hi 👋, I'm Muhammad Usama Irfan</h1> <h3 align="left">Data & AI Engineer with over 5 years of experience designing and deploying production-ready solutions that drive business transformation. I specialize in building scalable data infrastructure, AI-powered systems, and analytics platforms, leveraging technologies like Python, SQL, Cloud (AWS, Azure, GCP), and LLMs. My work includes developing AI models, building data pipelines, and creating tools that enhance operational efficiency and business decision-making.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamai000&label=Profile%20views&color=0e75b6&style=flat" alt="usamai000" /> </p>
+🔭 Current Role: Lead Data Scientist at Venture Data (Dubai, UAE, Remote)
 
-Proficient in Python, Langchain, Crewai, LLMs, FastAPI, and Cloud Platforms, I am dedicated to delivering high-impact solutions that enhance operational efficiency and support data-driven decision-making.
+💬 Specialties: Machine Learning, AI Solutions, Data Infrastructure, NLP, Cloud Platforms
 
-If you’re looking for a results-oriented, innovative engineer who can lead AI initiatives and unlock the full potential of your data, let's connect!</h3>
+📫 Contact: imusamairfan147@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamai000&label=Profile%20views&color=0e75b6&style=flat" alt="usamai000" /> </p>
+🔗 LinkedIn: Muhammad Usama Irfan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamai000" alt="usamai000" /></a> </p>
+👨‍💻 GitHub Projects: Check out my work here
 
-- 🔭 I’m currently working as a **Lead Data Scientist at Venture Data.**
+Notable Projects & Achievements
+AI-Assisted Data Analytics Platform | Venture Data (2023 - Present)
+Building an AI-powered platform to query data and generate insights.
 
-- 👨‍💻 All of my projects are available at https://github.com/UsamaI000?tab=repositories
+Designed multi-agent solutions to explore data and execute SQL queries autonomously.
 
-- 💬 Ask me about **Machine Learning, Deep Learning, and Data Science**
+Spearheading the creation of a semantic data layer to enhance business intelligence.
 
-- 📫 You can reach me at **imusamairfan147@gmail.com**
+Automated Call Analytics Solution | Venture Data
+Led a team to develop an Azure-based system using Databricks, OpenAI, and Assembly AI, reducing call categorization time by 70%.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/m-usama-irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-usama-irfan" height="30" width="40" /></a>
-</p>
+Intelligent Teaching Assistant Chatbot | Venture Data
+Developed a chatbot using RAG and prompt engineering to help students with their queries, improving resolution time by 10%.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Enterprise Data Warehouse & Analytics Solution | Data Pilot
+Implemented serverless ETL workflows using AWS Lambda and Glue, and optimized data storage and transformation, reducing reporting latency by 70%.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamai000&show_icons=true&locale=en&layout=compact" alt="usamai000" /></p>
+NLP Model for Conversational AI | Algo
+Built a conversational AI agent and improved NER & Intent Classification accuracy to 90%, enhancing client query response times for companies like Microsoft and BestBuy.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamai000&show_icons=true&locale=en" alt="usamai000" /></p>
+Technical Skills
+Programming & Frameworks: Python, SQL, FastAPI, Django, Langchain
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamai000&" alt="usamai000" /></p>
+AI & ML: LLMs (GPT, BERT, LLaMA), NLP, Predictive Modeling, RNN, LSTM, Clustering
 
+Data Engineering: Serverless ETL, DBT, BigQuery, Snowflake
 
+Cloud: Azure (ML, Cognitive Services, OpenAI), GCP (BigQuery, VertexAI), AWS (Lambda, SageMaker)
 
+Data Visualization: Power BI, Plotly, Matplotlib
+
+Other Tools: Docker, CI/CD, Git, DevOps, Agile
+
+Education
+MSc in Computer Science | Universität des Saarlandes, Saarbrucken, Germany
+
+BSc in Computer and Information Science | PIEAS, Islamabad, Pakistan
+
+Languages & Certifications
+English: Business Proficient
+
+German: Learning
+
+Certifications: (List any relevant certifications you may have)
+
+Connect with me
+<p align="left"> <a href="https://linkedin.com/in/m-usama-irfan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-usama-irfan" height="30" width="40" /> </a> </p>
