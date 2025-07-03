@@ -76,9 +76,3 @@
 - 🔗 **LinkedIn:** [Muhammad Usama Irfan](https://www.linkedin.com/in/m-usama-irfan/)  
 - 👨‍💻 **GitHub:** [Check out my work here](https://github.com/UsamaI000?tab=repositories)
 - 📞 **Phone:** +49-162-1816032 / +92-332-5664333
-
-<p align="left">
-  <a href="https://linkedin.com/in/m-usama-irfan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-usama-irfan" height="30" width="40" />
-  </a>
-</p>
