@@ -15,17 +15,17 @@
 
 ---
 
-### 🛠️ **Notable Projects & Achievements**
+### 🛠️ **Projects & Achievements**
 
-#### **Business Pulse - An Agentic AI Analytics Platform** | Venture Data (2023 - Present)
+#### **Business Pulse - An Agentic AI Analytics Platform** | Venture AI (2023 - Present)
 - Building an AI-powered platform to query data and generate insights.  
 - Designed multi-agent solutions to explore data and execute SQL queries autonomously.  
 - Spearheading the creation of a semantic data layer to enhance business intelligence.
 
-#### **Automated Call Analytics Solution** | Venture Data
+#### **Automated Call Analytics Solution** | Venture AI
 - Led a team to develop an Azure-based system using Databricks, OpenAI, and Assembly AI, reducing call categorization time by 70%.  
 
-#### **Intelligent Teaching Assistant Chatbot** | Venture Data
+#### **Intelligent Teaching Assistant Chatbot** | Venture AI
 - Developed a chatbot using RAG and prompt engineering to help students with their queries, improving resolution time by 10%.
 
 #### **Enterprise Data Warehouse & Analytics Solution** | Data Pilot
@@ -39,30 +39,23 @@
 ### 💻 **Technical Skills**
 
 - **Programming & Frameworks:**  
-  - Python  
-  - SQL  
-  - FastAPI  
+  - Python, SQL, Fast API  
 
 - **AI & ML:**  
   - LLMs (GPT, BERT, LLaMA), NLP, Predictive Modeling, RNN, LSTM, Clustering  
-  - PyTorch  
-  - TensorFlow
-  - CrewAI
-  - Langchain
+  - PyTorch, TensorFlow, Scikit-learn, Huggingface
+  - CrewAI, Langchain, OpenAI
 
 - **Data Engineering:**  
   - Serverless ETL, DBT, BigQuery, Snowflake  
 
 - **Cloud Platforms**:  
-    - Azure (ML, Funtions, OpenAI, LUIS, Bot Framework, Blob Storage, Speech SDK, Conversational AI) 
-    - GCP (Big Query, Cloud Functions, Cloud Run, Vertex AI, Storage)
-    - AWS (S3, Redshift, Lambda, Glue, EC2)
+  - Azure (ML, Funtions, OpenAI, LUIS, Bot Framework, Blob Storage, Speech SDK, Conversational AI) 
+  - GCP (Big Query, Cloud Functions, Cloud Run, Vertex AI, Storage)
+  - AWS (S3, Redshift, Lambda, Glue, EC2)
 
 - **Data Visualization:**  
-  - Power BI  
-  - Matplotlib
-  - Seaborn  
-  - Plotly
+  - Power BI, Matplotlib, Seaborn, Plotly
 
 - **Other Tools:**  
   - Docker, CI/CD, Git, DevOps, Agile
