@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Usama Irfan
 
-##### An experienced Data & AI Engineer with over 5 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms. 
+#### An experienced Data & AI Engineer with over 5 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms. 
 
 #### Proficient in Python, Langchain, Crewai, LLMs, FastAPI, and Cloud Platforms, I am dedicated to delivering high-impact solutions that enhance operational efficiency and support data-driven decision-making. 
 
