@@ -8,8 +8,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=usamai000&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 **Current Role:** Data and AI Engineer at Venture Data (Dubai, UAE, Remote)  
-- 💬 **Specialties:** ML, AI, AI Agents, LLMs, ETL, Data Infrastructure, Cloud Platforms  
+- 🔭 **Current Role:** Senior AI Engineer at art0 (Brussels, Belgium, Remote)  
+- 💬 **Specialties:** ML, AI, AI Agents, LLMs, Langchain, Crewai, Data Infrastructure, Cloud Platforms  
 - 📫 **Email:** [imusamairfan147@gmail.com](mailto:imusamairfan147@gmail.com)  
 - 🔗 **LinkedIn:** [Muhammad Usama Irfan](https://www.linkedin.com/in/m-usama-irfan/)  
 
@@ -17,7 +17,10 @@
 
 ### 🛠️ **Projects & Achievements**
 
-#### **Business Pulse - An Agentic AI Analytics Platform** | Venture AI (2023 - Present)
+#### **art0 - An Agentic Framework for Art Curators** | art0 (2025 - Present)
+- Building an AI-powered platform to generate content and chat with audience.  
+
+#### **Business Pulse - An Agentic AI Analytics Platform** | Venture AI (2023 - 2025)
 - Building an AI-powered platform to query data and generate insights.  
 - Designed multi-agent solutions to explore data and execute SQL queries autonomously.  
 - Spearheading the creation of a semantic data layer to enhance business intelligence.
