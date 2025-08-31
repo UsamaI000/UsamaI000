@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Usama Irfan
 
-#### An experienced Data & AI Engineer with over 4 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms. 
+#### An experienced ML & AI Engineer with over 4 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms. 
 
 #### Proficient in Python, Langchain, Crewai, LLMs, FastAPI, and Cloud Platforms, I am dedicated to delivering high-impact solutions that enhance operational efficiency and support data-driven decision-making. 
 
@@ -18,7 +18,10 @@
 ### 🛠️ **Projects & Achievements**
 
 #### **art0 - An Agentic Framework for Art Curators** | art0 (2025 - Present)
-- Building an AI-powered platform to generate content and chat with audience.  
+- Building a Multi-Agent Solution that can plan, research, and generate content using Crewai, Langgraph, and Openai.
+- Art0’s Interview Agent can interview the artists, gather the content for the live event experience.
+- Creating an Audience Journey Agent that increases audience engagement during the live performance and guides them through different parts of the event.
+
 
 #### **Business Pulse - An Agentic AI Analytics Platform** | Venture AI (2023 - 2025)
 - Building an AI-powered platform to query data and generate insights.  
