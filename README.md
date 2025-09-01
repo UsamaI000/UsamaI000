@@ -24,9 +24,9 @@
 
 
 #### **Business Pulse - An Agentic AI Analytics Platform** | Venture AI (2023 - 2025)
-- Building an AI-powered platform to query data and generate insights.  
-- Designed multi-agent solutions to explore data and execute SQL queries autonomously.  
-- Spearheading the creation of a semantic data layer to enhance business intelligence.
+- An AI-powered platform to query data and generate insights.  
+- Multi-Agent solutions to explore data and execute SQL queries autonomously.  
+- Semantic data layer to enhance business intelligence.
 
 #### **Automated Call Analytics Solution** | Venture AI
 - Led a team to develop an Azure-based system using Databricks, OpenAI, and Assembly AI, reducing call categorization time by 70%.  
