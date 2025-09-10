@@ -18,9 +18,8 @@
 ### 🛠️ **Projects & Achievements**
 
 #### **art0 - An Agentic Framework for Art Curators** | art0 (2025 - Present)
-- Building a Multi-Agent Solution that can plan, research, and generate content using Crewai, Langgraph, and Openai.
-- Art0’s Interview Agent can interview the artists, gather the content for the live event experience.
-- Creating an Audience Journey Agent that increases audience engagement during the live performance and guides them through different parts of the event.
+Leading the development of art0’s AI Event Companion. Building a Multi-Agent Solution that can plan, research, and generate content using Crewai, Langgraph, and Openai. 
+Creating in-app Host Agent that guides audience with their journey during different parts of the event and increases engagement during the live performance.
 
 
 #### **Business Pulse - An Agentic AI Analytics Platform** | Venture AI (2023 - 2025)
