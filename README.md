@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Usama Irfan
+# Hi 👋, I'm Usama
 
 #### An experienced ML & AI Engineer with over 4 years in the field, I specialize in designing and building scalable data & AI solutions that unlock actionable insights and drive business transformation. My expertise spans developing systems like AI-powered solutions, interactive chatbots, building data infrastructure, and creating robust analytics platforms. 
 
